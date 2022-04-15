@@ -11,6 +11,7 @@ Daily stats (if we do not forget to update it ^^)
 
 Date|ID count|Unique IPs count|
 |---|---|--:|
+15-Apr-2022|16,774,924|396,041
 14-Apr-2022|16,644,236|393,491
 13-Apr-2022|16,553,123|391,929
 12-Apr-2022|16,426,550|389,310
