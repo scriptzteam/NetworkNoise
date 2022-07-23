@@ -2,7 +2,7 @@
 
 ![logo](https://i.imgur.com/BxUVnnM.png)
 
-Site
+Site:
 ```
 https://networknoise.xyz/
 ```
