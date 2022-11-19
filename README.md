@@ -6,11 +6,12 @@ Site:
 ```
 https://networknoise.xyz/
 ```
-Daily stats (if we do not forget to update it ^^)
+Stats (updated time to time ^^)
 ----
 
 Date|ID count|Unique IPs count|
 |---|---|--:|
+19-Nov-2022|33,872,524|805,405
 13-Nov-2022|33,569,054|797,194
 05-Nov-2022|33,081,178|785,626
 01-Nov-2022|32,860,167|780,315
